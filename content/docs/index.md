@@ -1,5 +1,5 @@
 /*
-Title: Welcome
+Title: Documentation
 Description: This description will go in the meta description tag
 */
 
