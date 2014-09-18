@@ -1,5 +1,8 @@
 <?php 
 
+
+$config['site_title'] = 'ShitPeterSays';			// Site title
+
 /*
 // Override any of the default settings below:
 

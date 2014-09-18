@@ -1,3 +1,8 @@
+Hosted @ www.shitpetersays.com
+
+Cronjob deploys master branch every 5 mins.
+
+
 Pico
 ====
 
